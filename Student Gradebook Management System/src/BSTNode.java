@@ -1,11 +1,4 @@
-// DO NOT SUBMIT THIS FILE TO GRADESCOPE
 
-/**
- * Generic class implementing a Binary Node of a Binary Search Tree (BST)
- * Note: DO NOT MAKE ANY CHANGE TO THIS CLASS
- *
- * @param <T> type of the data carried by this binary node
- */
 public class BSTNode<T extends Comparable<T>>{
 
   /**
