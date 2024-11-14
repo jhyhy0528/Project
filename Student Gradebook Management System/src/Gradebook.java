@@ -1,31 +1,4 @@
-//////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
-//
-// Title:    (Gradebook.java)
-// Course:   CS 300 Spring 2024
-//
-// Author:   (Annabelle Jeong)
-// Email:    (hjeong58@wisc.edu)
-// Lecturer: (Mouna Kacem)
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ///////////////////
-// 
-// Partner Name:    (name of your pair programming partner)
-// Partner Email:   (email address of your programming partner)
-// Partner Lecturer's Name: (name of your partner's lecturer)
-// 
-// VERIFY THE FOLLOWING BY PLACING AN X NEXT TO EACH TRUE STATEMENT:
-//   ___ Write-up states that pair programming is allowed for this assignment.
-//   ___ We have both read and understand the course Pair Programming Policy.
-//   ___ We have registered our team prior to the team registration deadline.
-//
-//////////////////////// ASSISTANCE/HELP CITATIONS ////////////////////////////
-//
-// Persons:        
-// Online Sources
-// https://cs300-www.cs.wisc.edu/sp24/p09/doc/Gradebook.html
-// 
-//
-///////////////////////////////////////////////////////////////////////////////
+
 import java.util.NoSuchElementException;
 import java.util.Iterator;
 
